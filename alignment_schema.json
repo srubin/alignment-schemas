@@ -29,8 +29,7 @@
                         "type": "number"
                     },
                     "speaker": {
-                        "description": "Speaker of the word",
-                        "type": "string"
+                        "description": "Speaker of the word"
                     },
                     "line_idx": {
                         "description": "Index of input line that word came from",
